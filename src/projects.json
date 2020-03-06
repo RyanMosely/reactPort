@@ -1,0 +1,49 @@
+[
+    {
+      "id": 1,
+      "picture":"./HealthDash.png",
+      "title":"Business Health Dashboad",
+      "description": "This dashboard is representative of the general business health of a given company. It is a useful tool to implement to help facilitate project management tasks.",
+      "github": "https://github.com/Jonathynlee/CDSBusinessHealthApp",
+      "app": "https://jonathynlee.github.io/CDSBusinessHealthApp/"
+    },
+    {
+      "id": 2,
+      "picture":"./WeatherDash.png",
+      "title":"Weather Dashboard",
+      "description": "This sites purpose is to provide the user a tool to search for the current weather information and 5-day forcast of their desired city.",
+      "github": "https://github.com/RyanMosely/WeatherDash",
+      "app": "https://ryanmosely.github.io/WeatherDash/"
+    },
+    {
+      "id": 3,
+      "picture":"./ToDo.png",
+      "title":"To-Do Lis Application",
+      "description": "This site provides a to-do list tool to make notes for each out of the work day; from 9am to 5pm.",
+      "github": "https://github.com/RyanMosely/dayPlannerAssignmentJq",
+      "app": "https://ryanmosely.github.io/dayPlannerAssignmentJq/"
+    },
+    {
+      "id": 4,
+      "picture":"./reactTracker.png",
+      "title":"React Employee Tracker",
+      "description": "This application shows the capabilities of React in a employee tracker application",
+      "github": "https://github.com/RyanMosely/employeeReactTracker",
+      "app": "https://employee-tracker-rmos.herokuapp.com/"
+    },
+    {
+      "id": 5,
+      "picture":"./workout.png",
+      "title":"Workout Tracker",
+      "description": "The Workout Tracker application portrays the utilization of mongoose/mongo db",
+      "github": "https://github.com/RyanMosely/workoutApp",
+      "app": "https://ryans-workout-app.herokuapp.com/"
+    },
+    {
+      "id": 6,
+      "picture":"./password.png",
+      "title":"Password Generator",
+      "description": "The purpose of this application is to generate a random password",
+      "github": "https://github.com/RyanMosely/javascriptAssignment",
+      "app": "https://ryanmosely.github.io/javascriptAssignment/"
+    }]

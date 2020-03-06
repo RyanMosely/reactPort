@@ -1,0 +1,26 @@
+.projects {
+text-align: center;
+}
+
+.card {
+  margin: 0 auto; /* Added */
+  float: none; /* Added */
+  margin-bottom: 10px; /* Added */
+}
+
+
+
+.bg-light {
+    background-color: #f8f9fa!important;
+    border-bottom: solid 1px #E7E7E7;
+}
+
+img{
+  max-width: 100%;
+  margin-bottom: 30px;
+
+}
+
+.card-link{
+  margin: 0px;
+}
