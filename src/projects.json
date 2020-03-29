@@ -19,7 +19,7 @@
       "id": 3,
       "picture":"./ToDo.png",
       "title":"To-Do Lis Application",
-      "description": "This site provides a to-do list tool to make notes for each out of the work day; from 9am to 5pm.",
+      "description": "This site provides a to-do list tool to make notes for each hour of the work day; from 9am to 5pm.",
       "github": "https://github.com/RyanMosely/dayPlannerAssignmentJq",
       "app": "https://ryanmosely.github.io/dayPlannerAssignmentJq/"
     },
@@ -27,7 +27,7 @@
       "id": 4,
       "picture":"./reactTracker.png",
       "title":"React Employee Tracker",
-      "description": "This application shows the capabilities of React in a employee tracker application",
+      "description": "This application shows the capabilities of React in an employee tracker application.",
       "github": "https://github.com/RyanMosely/employeeReactTracker",
       "app": "https://employee-tracker-rmos.herokuapp.com/"
     },
